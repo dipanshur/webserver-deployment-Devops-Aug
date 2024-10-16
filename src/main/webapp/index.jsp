@@ -38,7 +38,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My JSP Page</h1>
+    <h1>Welcome to My Technogeeks!!!</h1>
 </header>
 
 <main>
@@ -79,7 +79,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2024 My JSP WebApp</p>
+    <p>&copy; 2024 My Technogeeks DevOps Project..</p>
 </footer>
 
 </body>
