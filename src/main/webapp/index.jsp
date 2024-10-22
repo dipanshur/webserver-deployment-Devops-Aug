@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to My JSP Page</title>
+    <title>Welcome to My Jenkins Deployment Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -38,7 +38,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My Technogeeks!!!</h1>
+    <h1>Welcome to My Technogeeks Batch!!!</h1>
 </header>
 
 <main>
